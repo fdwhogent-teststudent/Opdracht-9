@@ -1,7 +1,6 @@
 namespace Opdacht_9 {
     class Program {
         static void Main(string[] args) {
-            // parallelle arrays
             string[] namen = new string[100];
             string[] emails = new string[100];
             string[] telefoons = new string[100];
